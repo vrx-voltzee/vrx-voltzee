@@ -12,7 +12,7 @@
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,pytorch,sklearn,fastapi,flask,react,nextjs,nodejs,postgres,mongodb,redis,docker,githubactions,linux" />
+  <img src="https://raw.githubusercontent.com/vrx-voltzee/vrx-voltzee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ### Contribution Snake
