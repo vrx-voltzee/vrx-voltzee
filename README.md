@@ -10,10 +10,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrx-voltzee&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-### Tech Stack
+<h3>Tech Stack</h3>
 <p>
-  <img src="https://raw.githubusercontent.com/vrx-voltzee/vrx-voltzee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,pytorch,sklearn,fastapi,flask,react,nextjs,nodejs,postgres,mongodb,redis,docker,githubactions,linux" />
 </p>
 
-### Contribution Snake
-[https://raw.githubusercontent.com/vrx-voltzee/vrx-voltzee/output/github-contribution-grid-snake-dark.svg]
+<h3>Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vrx-voltzee/vrx-voltzee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
